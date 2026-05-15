@@ -41,13 +41,7 @@ The project simulates enterprise-level banking fraud monitoring workflows.
 
 # Project Architecture
 
-Raw CSV Data
-→ SSIS ETL Pipeline
-→ Staging Tables
-→ Cleaned Tables
-→ Fraud Detection Logic
-→ Data Warehouse
-→ Tableau Dashboard
+<img width="2816" height="1536" alt="WorkFlow" src="https://github.com/user-attachments/assets/3b27d496-3d9d-45fb-a650-86dc062d7311" />
 
 ---
 
