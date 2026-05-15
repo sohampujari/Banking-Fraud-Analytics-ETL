@@ -126,6 +126,17 @@ Banking_Fraud_Project/
 
 ---
 
+# Setup Instructions
+
+1. Import CSV datasets into SQL Server staging tables
+2. Execute SSIS packages for ETL processing
+3. Run SQL scripts in sequence
+4. Build warehouse tables
+5. Connect Tableau to SQL Server
+6. Open the Tableau workbook to view dashboard
+
+--- 
+
 # Future Improvements
 
 - Incremental ETL
