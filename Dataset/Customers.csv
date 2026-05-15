@@ -1,0 +1,101 @@
+CustomerID,Name,Gender,Age,PhoneNumber,Email,City,State,AccountType,KYCStatus,AccountOpenDate
+C0001,Priya Sharma,Female,36,9339670711,priya.sharma1@mail.com,Chennai,Tamil Nadu,Savings,Verified,23-12-2019
+C0002,Anjali Singh,Male,26,9334760738,anjali.singh2@mail.com,Pune,Maharashtra,Savings,Verified,25-03-2021
+C0003,Karan Singh,Female,58,9398704996,karan.singh3@mail.com,Mumbai,Maharashtra,Savings,Verified,28-09-2023
+C0004,Neha Nair,Male,42,9209747451,neha.nair4@mail.com,Mumbai,Maharashtra,Savings,Pending,01-02-2020
+C0005,Neha Kulkarni,Female,23,9883543540,neha.kulkarni5@mail.com,Hyderabad,Telangana,Current,Verified,31-03-2023
+C0006,Priya Gupta,Female,57,9306468299,priya.gupta6@mail.com,Delhi,Delhi,Salary,Verified,07-07-2019
+C0007,Sneha Nair,Male,27,9508157429,sneha.nair7@mail.com,Pune,Maharashtra,Current,Pending,03-02-2023
+C0008,Amit Kulkarni,Male,63,9386665249,amit.kulkarni8@mail.com,Delhi,Delhi,Salary,Verified,01-12-2020
+C0009,Karan Reddy,Female,45,9389854268,karan.reddy9@mail.com,Mumbai,Maharashtra,Salary,Verified,21-08-2022
+C0010,Rahul Reddy,Male,41,9530747414,rahul.reddy10@mail.com,Kolkata,West Bengal,Current,Verified,14-05-2021
+C0011,Anjali Kulkarni,Female,46,9790256940,anjali.kulkarni11@mail.com,Mumbai,Maharashtra,Current,Verified,20-12-2021
+C0012,Amit Reddy,Female,58,9560027313,amit.reddy12@mail.com,Chennai,Tamil Nadu,Salary,Pending,22-01-2023
+C0013,Sneha Patel,Female,26,9911514914,sneha.patel13@mail.com,Hyderabad,Telangana,Savings,Verified,18-09-2020
+C0014,Amit Singh,Male,45,9509760584,amit.singh14@mail.com,Hyderabad,Telangana,Salary,Pending,07-12-2024
+C0015,Arjun Gupta,Male,64,9873869166,arjun.gupta15@mail.com,Kolkata,West Bengal,Savings,Pending,25-10-2022
+C0016,Priya Nair,Male,50,9103484630,priya.nair16@mail.com,Bengaluru,Karnataka,Salary,Pending,12-08-2024
+C0017,Amit Gupta,Female,61,9645098869,amit.gupta17@mail.com,Pune,Maharashtra,Salary,Verified,18-09-2020
+C0018,Neha Patel,Male,59,9448059918,neha.patel18@mail.com,Hyderabad,Telangana,Current,Verified,03-04-2020
+C0019,Neha Nair,Male,36,9709194872,neha.nair19@mail.com,Mumbai,Maharashtra,Savings,Verified,13-06-2024
+C0020,Priya Gupta,Male,29,9808402051,priya.gupta20@mail.com,Kolkata,West Bengal,Current,Verified,21-12-2021
+C0021,Karan Mehta,Male,55,9910959828,karan.mehta21@mail.com,Bengaluru,Karnataka,Salary,Verified,30-06-2022
+C0022,Vikram Kulkarni,Female,28,9366186631,vikram.kulkarni22@mail.com,Bengaluru,Karnataka,Savings,Verified,16-10-2022
+C0023,Rahul Mehta,Male,58,9336456621,rahul.mehta23@mail.com,Hyderabad,Telangana,Savings,Verified,30-08-2019
+C0024,Sneha Verma,Female,25,9652070932,sneha.verma24@mail.com,Pune,Maharashtra,Savings,Pending,11-06-2024
+C0025,Sneha Gupta,Female,36,9942478695,sneha.gupta25@mail.com,Mumbai,Maharashtra,Current,Pending,18-02-2021
+C0026,Priya Verma,Female,43,9554814084,priya.verma26@mail.com,Chennai,Tamil Nadu,Current,Pending,10-08-2019
+C0027,Priya Sharma,Female,27,9366992705,priya.sharma27@mail.com,Bengaluru,Karnataka,Savings,Verified,05-01-2025
+C0028,Pooja Patel,Male,38,9596743109,pooja.patel28@mail.com,Bengaluru,Karnataka,Savings,Verified,21-12-2023
+C0029,Karan Verma,Male,26,9909134796,karan.verma29@mail.com,Pune,Maharashtra,Savings,Verified,23-07-2023
+C0030,Pooja Jain,Female,24,9276777762,pooja.jain30@mail.com,Mumbai,Maharashtra,Current,Verified,19-05-2023
+C0031,Arjun Jain,Female,65,9884374109,arjun.jain31@mail.com,Delhi,Delhi,Salary,Pending,26-09-2020
+C0032,Sneha Nair,Male,58,9889991777,sneha.nair32@mail.com,Mumbai,Maharashtra,Salary,Verified,08-07-2022
+C0033,Rahul Sharma,Female,53,9670292350,rahul.sharma33@mail.com,Hyderabad,Telangana,Savings,Verified,11-09-2024
+C0034,Priya Patel,Male,64,9352548261,priya.patel34@mail.com,Pune,Maharashtra,Current,Verified,05-10-2021
+C0035,Anjali Mehta,Male,47,9805849060,anjali.mehta35@mail.com,Pune,Maharashtra,Salary,Pending,04-12-2021
+C0036,Sneha Kulkarni,Female,46,9240529481,sneha.kulkarni36@mail.com,Mumbai,Maharashtra,Salary,Pending,16-02-2024
+C0037,Neha Verma,Female,60,9704509817,neha.verma37@mail.com,Pune,Maharashtra,Savings,Verified,23-05-2021
+C0038,Karan Nair,Female,25,9362298393,karan.nair38@mail.com,Mumbai,Maharashtra,Current,Pending,08-10-2020
+C0039,Pooja Gupta,Female,60,9966616964,pooja.gupta39@mail.com,Chennai,Tamil Nadu,Salary,Verified,11-05-2022
+C0040,Priya Patel,Male,27,9897163846,priya.patel40@mail.com,Delhi,Delhi,Salary,Verified,20-01-2022
+C0041,Arjun Mehta,Female,34,9838194420,arjun.mehta41@mail.com,Mumbai,Maharashtra,Salary,Pending,01-09-2024
+C0042,Pooja Nair,Male,26,9781057736,pooja.nair42@mail.com,Kolkata,West Bengal,Current,Pending,30-06-2019
+C0043,Rahul Kulkarni,Male,61,9381272327,rahul.kulkarni43@mail.com,Kolkata,West Bengal,Savings,Pending,18-10-2023
+C0044,Karan Sharma,Male,65,9260045822,karan.sharma44@mail.com,Pune,Maharashtra,Salary,Verified,21-02-2023
+C0045,Anjali Gupta,Female,29,9144913399,anjali.gupta45@mail.com,Mumbai,Maharashtra,Current,Pending,13-06-2019
+C0046,Neha Reddy,Male,63,9210373808,neha.reddy46@mail.com,Chennai,Tamil Nadu,Current,Pending,25-09-2020
+C0047,Sneha Patel,Male,47,9126614158,sneha.patel47@mail.com,Kolkata,West Bengal,Savings,Pending,14-08-2023
+C0048,Sneha Nair,Male,45,9141580226,sneha.nair48@mail.com,Mumbai,Maharashtra,Current,Verified,28-03-2021
+C0049,Pooja Kulkarni,Male,35,9125409494,pooja.kulkarni49@mail.com,Delhi,Delhi,Salary,Verified,21-06-2023
+C0050,Neha Nair,Male,38,9477040284,neha.nair50@mail.com,Kolkata,West Bengal,Salary,Pending,05-01-2025
+C0051,Neha Sharma,Female,32,9723403479,neha.sharma51@mail.com,Pune,Maharashtra,Current,Verified,20-03-2020
+C0052,Anjali Singh,Female,48,9750911797,anjali.singh52@mail.com,Delhi,Delhi,Salary,Verified,27-04-2023
+C0053,Anjali Reddy,Male,48,9101815992,anjali.reddy53@mail.com,Delhi,Delhi,Salary,Verified,31-01-2023
+C0054,Vikram Verma,Female,60,9437064353,vikram.verma54@mail.com,Chennai,Tamil Nadu,Salary,Verified,15-05-2022
+C0055,Karan Nair,Female,41,9532074125,karan.nair55@mail.com,Chennai,Tamil Nadu,Salary,Pending,05-06-2020
+C0056,Sneha Singh,Female,64,9903303363,sneha.singh56@mail.com,Chennai,Tamil Nadu,Savings,Pending,22-07-2023
+C0057,Karan Sharma,Female,34,9561588882,karan.sharma57@mail.com,Delhi,Delhi,Salary,Pending,19-03-2024
+C0058,Pooja Jain,Male,53,9608079792,pooja.jain58@mail.com,Chennai,Tamil Nadu,Salary,Verified,14-12-2019
+C0059,Arjun Gupta,Female,26,9978775497,arjun.gupta59@mail.com,Chennai,Tamil Nadu,Savings,Pending,09-07-2021
+C0060,Sneha Patel,Male,36,9610173760,sneha.patel60@mail.com,Pune,Maharashtra,Salary,Verified,09-02-2024
+C0061,Vikram Mehta,Female,52,9529123992,vikram.mehta61@mail.com,Mumbai,Maharashtra,Savings,Verified,23-01-2019
+C0062,Priya Singh,Male,65,9656152900,priya.singh62@mail.com,Mumbai,Maharashtra,Current,Verified,17-10-2021
+C0063,Priya Jain,Female,63,9670298515,priya.jain63@mail.com,Mumbai,Maharashtra,Salary,Pending,18-12-2023
+C0064,Anjali Gupta,Female,31,9898493949,anjali.gupta64@mail.com,Bengaluru,Karnataka,Current,Pending,27-11-2021
+C0065,Sneha Nair,Female,61,9356888294,sneha.nair65@mail.com,Kolkata,West Bengal,Current,Pending,14-11-2019
+C0066,Arjun Reddy,Female,41,9679984033,arjun.reddy66@mail.com,Delhi,Delhi,Savings,Verified,09-09-2020
+C0067,Sneha Singh,Male,34,9168965204,sneha.singh67@mail.com,Chennai,Tamil Nadu,Current,Pending,17-09-2022
+C0068,Karan Jain,Male,34,9994310083,karan.jain68@mail.com,Bengaluru,Karnataka,Current,Pending,22-03-2019
+C0069,Anjali Singh,Male,43,9420632895,anjali.singh69@mail.com,Bengaluru,Karnataka,Current,Pending,22-06-2021
+C0070,Pooja Reddy,Female,52,9131165166,pooja.reddy70@mail.com,Delhi,Delhi,Current,Pending,15-07-2023
+C0071,Amit Jain,Male,46,9735540030,amit.jain71@mail.com,Mumbai,Maharashtra,Salary,Verified,10-12-2019
+C0072,Vikram Patel,Female,32,9153992714,vikram.patel72@mail.com,Kolkata,West Bengal,Current,Pending,02-09-2022
+C0073,Sneha Jain,Female,45,9398775766,sneha.jain73@mail.com,Delhi,Delhi,Current,Pending,02-12-2019
+C0074,Pooja Sharma,Male,43,9340756713,pooja.sharma74@mail.com,Chennai,Tamil Nadu,Salary,Verified,14-06-2019
+C0075,Rahul Reddy,Male,60,9263619298,rahul.reddy75@mail.com,Mumbai,Maharashtra,Savings,Verified,23-04-2024
+C0076,Priya Mehta,Female,65,9375139575,priya.mehta76@mail.com,Mumbai,Maharashtra,Current,Verified,14-04-2020
+C0077,Amit Nair,Male,40,9718257024,amit.nair77@mail.com,Pune,Maharashtra,Salary,Pending,13-06-2023
+C0078,Sneha Verma,Male,27,9848605284,sneha.verma78@mail.com,Hyderabad,Telangana,Current,Verified,18-06-2019
+C0079,Neha Gupta,Female,25,9643271261,neha.gupta79@mail.com,Bengaluru,Karnataka,Salary,Pending,21-02-2019
+C0080,Vikram Jain,Female,44,9782454310,vikram.jain80@mail.com,Pune,Maharashtra,Current,Verified,19-11-2023
+C0081,Amit Gupta,Female,60,9967797300,amit.gupta81@mail.com,Chennai,Tamil Nadu,Salary,Pending,19-03-2024
+C0082,Vikram Mehta,Female,36,9991990632,vikram.mehta82@mail.com,Delhi,Delhi,Savings,Pending,21-01-2024
+C0083,Sneha Jain,Female,42,9130816384,sneha.jain83@mail.com,Hyderabad,Telangana,Current,Pending,14-01-2021
+C0084,Pooja Reddy,Female,42,9400281010,pooja.reddy84@mail.com,Delhi,Delhi,Salary,Pending,11-02-2019
+C0085,Karan Reddy,Male,47,9624606470,karan.reddy85@mail.com,Pune,Maharashtra,Salary,Verified,04-05-2024
+C0086,Pooja Jain,Male,26,9415933049,pooja.jain86@mail.com,Kolkata,West Bengal,Savings,Pending,23-09-2021
+C0087,Arjun Mehta,Female,56,9670073085,arjun.mehta87@mail.com,Delhi,Delhi,Current,Pending,16-09-2022
+C0088,Neha Jain,Female,37,9347538338,neha.jain88@mail.com,Delhi,Delhi,Savings,Verified,16-07-2022
+C0089,Priya Gupta,Male,33,9332341238,priya.gupta89@mail.com,Kolkata,West Bengal,Salary,Pending,06-02-2022
+C0090,Anjali Gupta,Female,27,9994027897,anjali.gupta90@mail.com,Hyderabad,Telangana,Savings,Pending,20-07-2021
+C0091,Neha Patel,Male,55,9235917419,neha.patel91@mail.com,Delhi,Delhi,Current,Verified,12-08-2019
+C0092,Karan Nair,Male,61,9908304440,karan.nair92@mail.com,Chennai,Tamil Nadu,Current,Verified,20-02-2019
+C0093,Anjali Nair,Female,49,9465830215,anjali.nair93@mail.com,Bengaluru,Karnataka,Savings,Verified,31-10-2021
+C0094,Pooja Verma,Male,46,9628008852,pooja.verma94@mail.com,Kolkata,West Bengal,Savings,Verified,13-09-2020
+C0095,Amit Mehta,Male,36,9227186396,amit.mehta95@mail.com,Delhi,Delhi,Salary,Pending,13-07-2021
+C0096,Karan Singh,Female,40,9731924051,karan.singh96@mail.com,Bengaluru,Karnataka,Current,Pending,04-09-2019
+C0097,Anjali Verma,Male,61,9326586581,anjali.verma97@mail.com,Kolkata,West Bengal,Current,Verified,05-10-2020
+C0098,Sneha Patel,Male,31,9102873038,sneha.patel98@mail.com,Hyderabad,Telangana,Current,Pending,08-04-2024
+C0099,Arjun Sharma,Female,39,9854827139,arjun.sharma99@mail.com,Mumbai,Maharashtra,Current,Verified,14-08-2021
+C0100,Arjun Mehta,Male,48,9223240112,arjun.mehta100@mail.com,Chennai,Tamil Nadu,Salary,Verified,02-09-2020
