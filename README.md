@@ -24,6 +24,21 @@ The project simulates enterprise-level banking fraud monitoring workflows.
 
 ---
 
+# Key Skills Demonstrated
+
+- ETL Pipeline Development
+- Data Warehousing
+- Star Schema Design
+- SQL Query Optimization
+- Fraud Detection Analytics
+- SSIS Package Development
+- Tableau Dashboard Development
+- KPI Reporting
+- Data Cleaning & Transformation
+- Business Intelligence Visualization
+
+---
+
 # Project Architecture
 
 Raw CSV Data
