@@ -14,6 +14,12 @@ The project simulates enterprise-level banking fraud monitoring workflows.
 
 ---
 
+# Business Problem
+
+Banks process thousands of daily transactions, making manual fraud monitoring difficult. This project simulates an enterprise fraud analytics system capable of identifying suspicious transaction patterns, monitoring fraud exposure, and generating business intelligence dashboards for risk analysis.
+
+---
+
 # Technologies Used
 
 - SQL Server
